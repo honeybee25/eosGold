@@ -5804,7 +5804,7 @@ section.subPage.lastPage .innerWrap .contWrap {
 }
 .d-flex {
   display: flex;
-  flex-direction: row !important;
+  flex-direction: row;
 }
 .j-c-sb {
   justify-content: space-between;
